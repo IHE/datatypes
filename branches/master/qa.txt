@@ -1,0 +1,239 @@
+LogicalDatatypes : Validation Results
+=========================================
+
+err = 0, warn = 19, info = 17
+IG Publisher Version: 1.6.3
+Generated Thu Mar 21 21:30:57 UTC 2024. FHIR version 5.0.0 for ihe.domain.logical-datatypes#0.0.1-current (canonical = https://profiles.ihe.net/Domain/LogicalDatatypes)
+ Build Errors : 160 / 3 / 0
+ /github/workspace/fsh-generated/resources/ImplementationGuide-ihe.domain.logical-datatypes : 0 / 0 / 2
+ /github/workspace/fsh-generated/resources/StructureDefinition-AD : 0 / 1 / 2
+ /github/workspace/fsh-generated/resources/StructureDefinition-ANY : 0 / 1 / 2
+ /github/workspace/fsh-generated/resources/StructureDefinition-BL : 0 / 1 / 2
+ /github/workspace/fsh-generated/resources/StructureDefinition-CD : 0 / 1 / 2
+ /github/workspace/fsh-generated/resources/StructureDefinition-Class : 0 / 1 / 2
+ /github/workspace/fsh-generated/resources/StructureDefinition-DT : 0 / 1 / 2
+ /github/workspace/fsh-generated/resources/StructureDefinition-EN : 0 / 1 / 2
+ /github/workspace/fsh-generated/resources/StructureDefinition-INT : 0 / 1 / 2
+ /github/workspace/fsh-generated/resources/StructureDefinition-InstanceIdentifier : 0 / 1 / 2
+ /github/workspace/fsh-generated/resources/StructureDefinition-PQ : 0 / 1 / 2
+ /github/workspace/fsh-generated/resources/StructureDefinition-QT : 0 / 1 / 2
+ /github/workspace/fsh-generated/resources/StructureDefinition-REAL : 0 / 1 / 2
+ /github/workspace/fsh-generated/resources/StructureDefinition-RTO : 0 / 1 / 2
+ /github/workspace/fsh-generated/resources/StructureDefinition-ST : 0 / 1 / 2
+ /github/workspace/fsh-generated/resources/StructureDefinition-TS : 0 / 1 / 2
+ /github/workspace/fsh-generated/resources/StructureDefinition-Untyped : 0 / 1 / 2
+</table>
+== n/a ==
+ERROR: /github/workspace/output/StructureDefinition-AD-definitions.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-AD-examples.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-AD-mappings.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-AD-testing.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-AD.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-AD.profile.history.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-AD.profile.json.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-AD.profile.ttl.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-AD.profile.xml.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-ANY-definitions.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-ANY-examples.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-ANY-mappings.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-ANY-testing.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-ANY.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-ANY.profile.history.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-ANY.profile.json.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-ANY.profile.ttl.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-ANY.profile.xml.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-BL-definitions.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-BL-examples.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-BL-mappings.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-BL-testing.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-BL.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-BL.profile.history.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-BL.profile.json.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-BL.profile.ttl.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-BL.profile.xml.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-CD-definitions.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-CD-examples.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-CD-mappings.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-CD-testing.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-CD.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-CD.profile.history.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-CD.profile.json.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-CD.profile.ttl.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-CD.profile.xml.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-Class-definitions.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-Class-examples.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-Class-mappings.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-Class-testing.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-Class.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-Class.profile.history.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-Class.profile.json.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-Class.profile.ttl.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-Class.profile.xml.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-DT-definitions.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-DT-examples.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-DT-mappings.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-DT-testing.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-DT.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-DT.profile.history.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-DT.profile.json.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-DT.profile.ttl.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-DT.profile.xml.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-EN-definitions.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-EN-examples.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-EN-mappings.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-EN-testing.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-EN.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-EN.profile.history.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-EN.profile.json.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-EN.profile.ttl.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-EN.profile.xml.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-INT-definitions.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-INT-examples.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-INT-mappings.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-INT-testing.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-INT.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-INT.profile.history.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-INT.profile.json.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-INT.profile.ttl.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-INT.profile.xml.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-InstanceIdentifier-definitions.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-InstanceIdentifier-examples.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-InstanceIdentifier-mappings.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-InstanceIdentifier-testing.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-InstanceIdentifier.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-InstanceIdentifier.profile.history.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-InstanceIdentifier.profile.json.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-InstanceIdentifier.profile.ttl.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-InstanceIdentifier.profile.xml.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-PQ-definitions.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-PQ-examples.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-PQ-mappings.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-PQ-testing.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-PQ.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-PQ.profile.history.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-PQ.profile.json.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-PQ.profile.ttl.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-PQ.profile.xml.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-QT-definitions.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-QT-examples.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-QT-mappings.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-QT-testing.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-QT.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-QT.profile.history.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-QT.profile.json.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-QT.profile.ttl.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-QT.profile.xml.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-REAL-definitions.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-REAL-examples.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-REAL-mappings.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-REAL-testing.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-REAL.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-REAL.profile.history.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-REAL.profile.json.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-REAL.profile.ttl.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-REAL.profile.xml.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-RTO-definitions.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-RTO-examples.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-RTO-mappings.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-RTO-testing.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-RTO.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-RTO.profile.history.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-RTO.profile.json.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-RTO.profile.ttl.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-RTO.profile.xml.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-ST-definitions.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-ST-examples.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-ST-mappings.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-ST-testing.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-ST.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-ST.profile.history.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-ST.profile.json.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-ST.profile.ttl.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-ST.profile.xml.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-TS-definitions.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-TS-examples.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-TS-mappings.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-TS-testing.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-TS.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-TS.profile.history.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-TS.profile.json.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-TS.profile.ttl.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-TS.profile.xml.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-Untyped-definitions.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-Untyped-examples.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-Untyped-mappings.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-Untyped-testing.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-Untyped.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-Untyped.profile.history.html#/html/body/div/div/div/a/img at Line 72, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-Untyped.profile.json.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-Untyped.profile.ttl.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/StructureDefinition-Untyped.profile.xml.html#/html/body/div/div/div/a/img at Line 76, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/artifacts.html#/html/body/div/div/div/a/img at Line 68, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/a/img at Line 68, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/div/div/div/table/tbody/tr/td/a at Line 225, column 14: The link 'issues.html' for "Significant Changes, Open and Closed Issues" cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/div/div/ol/li/ol/li/a at Line 239, column 12: The link 'volume-1.html' for "Introduction" cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/div/div/ol/li/ol/li/a at Line 240, column 12: The link 'volume-1.html#actors-and-transactions' for "Actors, Transactions, and Content" cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/div/div/ol/li/ol/li/a at Line 241, column 12: The link 'volume-1.html#actor-options' for "Actor Options" cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/div/div/ol/li/ol/li/a at Line 242, column 12: The link 'volume-1.html#required-groupings' for "Actor Required Groupings" cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/div/div/ol/li/ol/li/a at Line 243, column 12: The link 'volume-1.html#overview' for "Overview" cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/div/div/ol/li/ol/li/a at Line 244, column 12: The link 'volume-1.html#security-considerations' for "Security Considerations" cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/div/div/ol/li/ol/li/a at Line 245, column 12: The link 'volume-1.html#other-grouping' for "Cross Profile Considerations" cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/div/div/ol/li/ol/li/a at Line 251, column 12: The link 'domain-YY.html' for "ToDo do [domain-YY]" cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/div/div/ol/li/ol/li/a at Line 257, column 12: The link 'domain-ZZ.html' for "Content One" cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/div/div/ol/li/ol/li/a at Line 267, column 12: The link 'testplan.html' for "Test Plan" cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/div/div/ol/li/ol/li/a at Line 268, column 12: The link 'other.html' for "Changes to Other IHE Specifications" cannot be resolved
+ERROR: /github/workspace/output/index.html#/html/body/div/div/div/div/div/ol/li/ol/li/a at Line 269, column 12: The link 'download.html' for "Download and Analysis" cannot be resolved
+ERROR: /github/workspace/output/toc.html#/html/body/div/div/div/a/img at Line 68, column 95: The image source 'assets/images/Domain.png' cannot be resolved
+WARNING: 1: The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide
+WARNING: 3: An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 4: The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide
+== fsh-generated/resources/ImplementationGuide-ihe.domain.logical-datatypes.json ==
+INFORMATION: ImplementationGuide/ihe.domain.logical-datatypes: ImplementationGuide.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0
+== fsh-generated/resources/StructureDefinition-AD.json ==
+INFORMATION: StructureDefinition/AD: StructureDefinition.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0
+WARNING: StructureDefinition.where(url = 'https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/AD'): The Implementation Guide contains no examples for this data type profile
+== fsh-generated/resources/StructureDefinition-ANY.json ==
+INFORMATION: StructureDefinition/ANY: StructureDefinition.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0
+WARNING: StructureDefinition.where(url = 'https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/ANY'): The Implementation Guide contains no examples for this data type profile
+== fsh-generated/resources/StructureDefinition-BL.json ==
+INFORMATION: StructureDefinition/BL: StructureDefinition.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0
+WARNING: StructureDefinition.where(url = 'https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/BL'): The Implementation Guide contains no examples for this data type profile
+== fsh-generated/resources/StructureDefinition-CD.json ==
+INFORMATION: StructureDefinition/CD: StructureDefinition.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0
+WARNING: StructureDefinition.where(url = 'https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/CD'): The Implementation Guide contains no examples for this data type profile
+== fsh-generated/resources/StructureDefinition-Class.json ==
+INFORMATION: StructureDefinition/Class: StructureDefinition.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0
+WARNING: StructureDefinition.where(url = 'https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/Class'): The Implementation Guide contains no examples for this data type profile
+== fsh-generated/resources/StructureDefinition-DT.json ==
+INFORMATION: StructureDefinition/DT: StructureDefinition.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0
+WARNING: StructureDefinition.where(url = 'https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/DT'): The Implementation Guide contains no examples for this data type profile
+== fsh-generated/resources/StructureDefinition-EN.json ==
+INFORMATION: StructureDefinition/EN: StructureDefinition.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0
+WARNING: StructureDefinition.where(url = 'https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/EN'): The Implementation Guide contains no examples for this data type profile
+== fsh-generated/resources/StructureDefinition-INT.json ==
+INFORMATION: StructureDefinition/INT: StructureDefinition.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0
+WARNING: StructureDefinition.where(url = 'https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/INT'): The Implementation Guide contains no examples for this data type profile
+== fsh-generated/resources/StructureDefinition-InstanceIdentifier.json ==
+INFORMATION: StructureDefinition/InstanceIdentifier: StructureDefinition.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0
+WARNING: StructureDefinition.where(url = 'https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/InstanceIdentifier'): The Implementation Guide contains no examples for this data type profile
+== fsh-generated/resources/StructureDefinition-PQ.json ==
+INFORMATION: StructureDefinition/PQ: StructureDefinition.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0
+WARNING: StructureDefinition.where(url = 'https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/PQ'): The Implementation Guide contains no examples for this data type profile
+== fsh-generated/resources/StructureDefinition-QT.json ==
+INFORMATION: StructureDefinition/QT: StructureDefinition.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0
+WARNING: StructureDefinition.where(url = 'https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/QT'): The Implementation Guide contains no examples for this data type profile
+== fsh-generated/resources/StructureDefinition-REAL.json ==
+INFORMATION: StructureDefinition/REAL: StructureDefinition.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0
+WARNING: StructureDefinition.where(url = 'https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/REAL'): The Implementation Guide contains no examples for this data type profile
+== fsh-generated/resources/StructureDefinition-RTO.json ==
+INFORMATION: StructureDefinition/RTO: StructureDefinition.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0
+WARNING: StructureDefinition.where(url = 'https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/RTO'): The Implementation Guide contains no examples for this data type profile
+== fsh-generated/resources/StructureDefinition-ST.json ==
+INFORMATION: StructureDefinition/ST: StructureDefinition.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0
+WARNING: StructureDefinition.where(url = 'https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/ST'): The Implementation Guide contains no examples for this data type profile
+== fsh-generated/resources/StructureDefinition-TS.json ==
+INFORMATION: StructureDefinition/TS: StructureDefinition.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0
+WARNING: StructureDefinition.where(url = 'https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/TS'): The Implementation Guide contains no examples for this data type profile
+== fsh-generated/resources/StructureDefinition-Untyped.json ==
+INFORMATION: StructureDefinition/Untyped: StructureDefinition.jurisdiction[0]: Reference to deprecated ValueSet http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0
+WARNING: StructureDefinition.where(url = 'https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/Untyped'): The Implementation Guide contains no examples for this data type profile

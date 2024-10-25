@@ -1,0 +1,121 @@
+[
+  {
+    "id" : "ihe.domain.logical-datatypes",
+    "type" : "ImplementationGuide",
+    "url" : "https://profiles.ihe.net/Domain/LogicalDatatypes/ImplementationGuide/ihe.domain.logical-datatypes",
+    "version" : "0.0.1-current",
+    "name" : "LogicalDatatypes"
+  },
+  {
+    "id" : "AD",
+    "type" : "StructureDefinition",
+    "url" : "https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/AD",
+    "version" : "0.0.1-current",
+    "name" : "AD"
+  },
+  {
+    "id" : "ANY",
+    "type" : "StructureDefinition",
+    "url" : "https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/ANY",
+    "version" : "0.0.1-current",
+    "name" : "ANY"
+  },
+  {
+    "id" : "BL",
+    "type" : "StructureDefinition",
+    "url" : "https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/BL",
+    "version" : "0.0.1-current",
+    "name" : "BL"
+  },
+  {
+    "id" : "CD",
+    "type" : "StructureDefinition",
+    "url" : "https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/CD",
+    "version" : "0.0.1-current",
+    "name" : "CD"
+  },
+  {
+    "id" : "Class",
+    "type" : "StructureDefinition",
+    "url" : "https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/Class",
+    "version" : "0.0.1-current",
+    "name" : "Class"
+  },
+  {
+    "id" : "DT",
+    "type" : "StructureDefinition",
+    "url" : "https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/DT",
+    "version" : "0.0.1-current",
+    "name" : "DT"
+  },
+  {
+    "id" : "EN",
+    "type" : "StructureDefinition",
+    "url" : "https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/EN",
+    "version" : "0.0.1-current",
+    "name" : "EN"
+  },
+  {
+    "id" : "INT",
+    "type" : "StructureDefinition",
+    "url" : "https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/INT",
+    "version" : "0.0.1-current",
+    "name" : "INT"
+  },
+  {
+    "id" : "InstanceIdentifier",
+    "type" : "StructureDefinition",
+    "url" : "https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/InstanceIdentifier",
+    "version" : "0.0.1-current",
+    "name" : "II"
+  },
+  {
+    "id" : "PQ",
+    "type" : "StructureDefinition",
+    "url" : "https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/PQ",
+    "version" : "0.0.1-current",
+    "name" : "PQ"
+  },
+  {
+    "id" : "QT",
+    "type" : "StructureDefinition",
+    "url" : "https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/QT",
+    "version" : "0.0.1-current",
+    "name" : "QT"
+  },
+  {
+    "id" : "REAL",
+    "type" : "StructureDefinition",
+    "url" : "https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/REAL",
+    "version" : "0.0.1-current",
+    "name" : "REAL"
+  },
+  {
+    "id" : "RTO",
+    "type" : "StructureDefinition",
+    "url" : "https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/RTO",
+    "version" : "0.0.1-current",
+    "name" : "RTO"
+  },
+  {
+    "id" : "ST",
+    "type" : "StructureDefinition",
+    "url" : "https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/ST",
+    "version" : "0.0.1-current",
+    "name" : "ST"
+  },
+  {
+    "id" : "TS",
+    "type" : "StructureDefinition",
+    "url" : "https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/TS",
+    "version" : "0.0.1-current",
+    "name" : "TS"
+  },
+  {
+    "id" : "Untyped",
+    "type" : "StructureDefinition",
+    "url" : "https://profiles.ihe.net/Domain/LogicalDatatypes/StructureDefinition/Untyped",
+    "version" : "0.0.1-current",
+    "name" : "Untyped"
+  }
+]
